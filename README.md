@@ -22,3 +22,21 @@
 - Forecasting and Variance Analysis
 - IFRS & GAAP Knowledge
 - Cost Control and Profitability Analysis
+
+**Target Job Title:** Data Analyst / Business Analyst  
+**Industry Focus:** Finance • Analytics • AI-Driven Decision Support  
+**Job Summary:**  
+Looking for opportunities where I can apply data analysis, financial expertise, and automation to improve business decision-making.  
+Ideal roles involve working with data visualization tools, SQL databases, and Python for building analytical solutions.  
+
+**Key Requirements from Job Postings:**
+- Strong analytical and problem-solving skills  
+- Experience with data analysis tools (Python, SQL, Excel, Power BI/Tableau)  
+- Ability to communicate insights effectively  
+- Financial or business background preferred  
+
+**My Matching Strengths:**
+- 18+ years in finance and accounting (forecasting, budgeting, reporting)  
+- Strong knowledge of IFRS and business analytics  
+- Data analysis and visualization skills using Python, SQL, and BI tools  
+- Currently developing portfolio projects in data analytics and AI
