@@ -40,3 +40,24 @@ Ideal roles involve working with data visualization tools, SQL databases, and Py
 - Strong knowledge of IFRS and business analytics  
 - Data analysis and visualization skills using Python, SQL, and BI tools  
 - Currently developing portfolio projects in data analytics and AI
+
+## 🧩 Current Projects
+
+### 🔹 Data Extraction & Integration
+*Tools:* Python, Pandas, JSON, CSV, SQLite  
+- Loading and combining multiple data sources (JSON, CSV, database, web API).  
+- Creating clean, unified datasets for analysis.
+
+### 🔹 Exploratory Data Analysis (EDA)
+*Tools:* Python, Pandas, Matplotlib  
+- Identifying missing data, outliers, and trends.  
+- Visualizing insights to improve data quality and decision-making.
+
+### 🔹 Regression & Predictive Analysis
+*Tools:* Python (Scikit-Learn), Excel  
+- Applying regression models to identify relationships and predict future outcomes.  
+- Interpreting model results and documenting findings.
+
+### 🔹 Digital Portfolio (Ongoing)
+*Focus:* Combining technical projects with professional development (Career Planning & Portfolio course).  
+- Integrating GitHub repositories into a complete online portfolio.
