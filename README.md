@@ -61,3 +61,12 @@ Ideal roles involve working with data visualization tools, SQL databases, and Py
 ### 🔹 Digital Portfolio (Ongoing)
 *Focus:* Combining technical projects with professional development (Career Planning & Portfolio course).  
 - Integrating GitHub repositories into a complete online portfolio.
+
+## 💭 Professional Reflection
+
+Through my journey at George Brown College, I have developed both technical and professional skills that connect my past experience in finance with my new focus in data analytics and AI.  
+
+This course helped me identify my strengths in data interpretation, communication, and analytical thinking.  
+It also taught me the importance of continuous learning, collaboration, and maintaining a professional online presence.  
+
+My next goal is to build advanced portfolio projects combining data analysis, financial forecasting, and automation — preparing for future roles in data-driven decision-making and applied AI solutions.
