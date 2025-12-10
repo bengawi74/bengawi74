@@ -1,6 +1,4 @@
-About Me
 
-=======
 <h1 align="center">Hi, I'm Anwar 👋</h1>
 
 <p align="center">
