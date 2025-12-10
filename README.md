@@ -1,2 +1,3 @@
 About Me
+
 Hi, I started my career in finance and operations, working for many years in budgeting, forecasting, and financial reporting. Recently, I shifted my focus toward applied data and AI to combine my business background with modern analytical tools. I am building skills in data analytics, model development, and full-stack data applications, with hands-on work in machine learning, deep learning, and practical problem-solving. My goal is to move into a role that connects business understanding with data-driven insights. I am also preparing for the MMAI program at the Schulich School of Business.
