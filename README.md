@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🎓 Transitioning from **19+ years in accounting and corporate finance** into **AI / data science**
 - 📍 Based in **Ontario, Canada**
