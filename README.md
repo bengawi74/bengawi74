@@ -1,109 +1,112 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 About Me
 
 Hi, I started my career in finance and operations, working for many years in budgeting, forecasting, and financial reporting. Recently, I shifted my focus toward applied data and AI to combine my business background with modern analytical tools. I am building skills in data analytics, model development, and full-stack data applications, with hands-on work in machine learning, deep learning, and practical problem-solving. My goal is to move into a role that connects business understanding with data-driven insights. I am also preparing for the MMAI program at the Schulich School of Business.
 =======
 # Anwar Ali
+=======
+<h1 align="center">Hi, I'm Anwar 👋</h1>
+>>>>>>> 78f6d73 (Polished GitHub profile README)
 
-Finance and operations leader moving into applied data and AI.  
-I spent many years in budgeting, forecasting, and financial reporting. Now I am building systems that use data and machine learning to explain what is happening in a business and what should happen next.
-
-I am currently finishing the Applied AI Solutions Development program at George Brown College and preparing an application for the Master of Management in Artificial Intelligence (MMAI) at the Schulich School of Business.
-
----
-
-## Tools and skills
-
-Python · Pandas · NumPy · Matplotlib · Seaborn  
-PyTorch · scikit-learn · Deep learning (CNNs, RNNs, transformers)  
-FastAPI · Streamlit · Git and GitHub  
-SQL · Data extraction from CSV, JSON, and APIs  
-Tableau and basic dashboard building  
-Financial analysis, budgeting, forecasting, and performance reporting
+<p align="center">
+  Applied AI Solutions Development • George Brown College • Toronto, Canada  
+</p>
 
 ---
 
-## What I am working on now
+## 👨‍💻 About Me
 
-- Building small end-to-end ML systems that go from raw data to a working demo.
-- Connecting my finance background with machine learning models for business decision support.
-- Preparing my academic and project portfolio for MMAI applications.
-
----
-
-## Selected projects
-
-### Data Analytics Portfolio  
-Repository: https://github.com/bengawi74/data-analytics-portfolio  
-
-Small portfolio of early analytics work.  
-Includes data extraction from CSV and JSON, data cleaning, exploratory analysis, and a first classical ML model (logistic regression). These projects formed the base for later deep learning and full-stack work.
+- 🎓 Transitioning from **19+ years in accounting and corporate finance** into **AI / data science**
+- 📍 Based in **Ontario, Canada**
+- 📚 Currently finishing the **Applied AI Solutions Development** program at **George Brown College**
+- 🎯 Next step: applying to the **Master of Management in Artificial Intelligence (MMAI)** at Schulich
+- ❤️ Interested in:  
+  - Machine learning for **finance, forecasting, and risk**  
+  - **NLP** for customer feedback and sentiment  
+  - **Computer vision** for retail and quality control
 
 ---
 
-### YOLOv5 Grocery Object Detection  
-Repository: https://github.com/bengawi74/yolov5-grocery-detection  
+## 🧠 Tech & Tools
 
-Computer vision project that detects grocery items on shelves using YOLOv5.  
-Covers dataset preparation, training, and evaluation with metrics such as precision, recall, and mAP, plus saved weights and example detection outputs.
+**Languages & Data**
 
----
+- Python • SQL • Bash  
+- NumPy • Pandas • Matplotlib  
 
-### Fabric Classification with EfficientNet and Streamlit  
-Repository: https://github.com/bengawi74/fabric-efficientnet-streamlit  
+**Machine Learning & Deep Learning**
 
-Image classification system that predicts fabric type from clothing photos (cotton, denim, leather, linen, polyester, silk).  
-Uses EfficientNet for training and serves a simple Streamlit app so a user can upload an image and see the predicted fabric type.
+- Scikit-learn  
+- TensorFlow / Keras  
+- PyTorch  
+- YOLOv5 (object detection)  
+- Transformers (Hugging Face)
 
----
+**MLOps / Tools**
 
-### Full-Stack Sentiment Analysis System  
-Repository: https://github.com/bengawi74/sentiment-fullstack-project  
-
-Backend built with FastAPI and a frontend dashboard built with Streamlit.  
-Collects and analyzes text comments from sources such as YouTube and Amazon, applies a sentiment model, and shows results through charts and tables. Designed as a graded full-stack data science systems project.
-
----
-
-### Supervised Learning – Regression (Titanic example)  
-Repository: https://github.com/bengawi74/supervised-learning-regression  
-
-Classical machine learning project using logistic regression on the Titanic dataset.  
-Focuses on clean feature preparation, train/test split, evaluation with accuracy, precision, recall and F1, plus a short written summary.
+- Jupyter / Google Colab  
+- Git & GitHub  
+- Streamlit  
+- Docker (beginner)  
 
 ---
 
-## Education and background
+## 📂 Selected Projects
 
-- Bachelor’s degree in Economics.  
-- Nineteen years of experience in accounting and corporate finance, including budgeting, forecasting, consolidation, and financial reporting.  
-- Graduate certificate in Applied AI Solutions Development at George Brown College (in progress).  
-- Preparing for the MMAI program at the Schulich School of Business.
+### 🛒 Grocery Items Object Detection (YOLOv5)
+Multi-class object detection model trained on grocery shelf images.
+
+- Detects multiple product types per image (e.g., cans, bottles, boxes)
+- Implemented with **YOLOv5**, trained and evaluated on **Kaggle**
+- Includes mAP metrics, confusion matrix, and visualized predictions
+
+> Tech: Python, PyTorch, YOLOv5, Jupyter, Kaggle
 
 ---
 
-## Contact
+### 👕 Fabric Classification for Clothing
+End-to-end image classification system to identify **fabric type, color group, and garment type**.
 
-Email: anwar.bengawi74@gmail.com  
-LinkedIn: https://linkedin.com/in/anwar-ali-07484083  
-GitHub: https://github.com/bengawi74
+- Used **EfficientNet** and **ConvNeXt** backbones
+- Built a **multi-stage pipeline** for fabric type + color + garment
+- Includes Streamlit demo and detailed evaluation report
 
-<!--
-Header and profile images (optional):
+> Tech: PyTorch, EfficientNet, ConvNeXt, Streamlit
 
-Place images in this repo, for example:
-- images/header.png     → for a banner
-- images/profile.jpg    → for a profile photo
+---
 
-Then you can add at the very top of this file:
+### 🗣️ Social Sentiment Intelligence (Text Project)
+Full-stack style project that analyzes text comments from different platforms (e.g., YouTube, Amazon) to help product owners understand what people are saying about their products.
 
-![Header](images/header.png)
+- Cleans and preprocesses raw text
+- Trains multiple models: Logistic Regression, Feed-Forward NN, LSTM, and a Transformer-based model
+- Outputs sentiment predictions and simple visualizations
 
-and, if you like, somewhere near the top:
+> Tech: Python, scikit-learn, PyTorch, Transformers, Streamlit
 
-<img src="images/profile.jpg" alt="Anwar Ali" width="160"/>
+---
 
-These comments will not show on your profile.
--->
+## 📊 Background in Finance
 
+Before AI, I spent almost **two decades in accounting and corporate finance**, working on:
+
+- Budgeting, forecasting, and financial analysis  
+- Management reporting and dashboards  
+- ERP implementations and process improvements  
+
+Now I’m combining that experience with machine learning to build **data-driven tools for better business decisions**.
+
+---
+
+## 📫 How to Reach Me
+
+- 💼 LinkedIn: *[add your link here]*  
+- 🧠 Kaggle: *[add your Kaggle profile link here]*  
+- 📧 Email: *[add your preferred email here]*  
+
+<<<<<<< HEAD
 >>>>>>> f4c9b30 (Refresh profile README with projects and background)
+=======
+If you’d like to talk about AI in **finance, retail, or operations**, or you want to discuss projects, feel free to reach out.
+>>>>>>> 78f6d73 (Polished GitHub profile README)
