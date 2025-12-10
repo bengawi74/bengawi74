@@ -9,18 +9,18 @@
 
 ##  About Me
 
-- 🎓 Transitioning from **19+ years in accounting and corporate finance** into **AI / data science**
-- 📍 Based in **Ontario, Canada**
-- 📚 Currently finishing the **Applied AI Solutions Development** program at **George Brown College**
-- 🎯 Next step: applying to the **Master of Management in Artificial Intelligence (MMAI)** at Schulich
-- ❤️ Interested in:  
-  - Machine learning for **finance, forecasting, and risk**  
+-  Transitioning from **19+ years in accounting and corporate finance** into **AI / data science**
+-  Based in **Ontario, Canada**
+-  Currently finishing the **Applied AI Solutions Development** program at **George Brown College**
+-  Next step: applying to the **Master of Management in Artificial Intelligence (MMAI)** at Schulich
+-  Interested in:
+-  Machine learning for **finance, forecasting, and risk**  
   - **NLP** for customer feedback and sentiment  
   - **Computer vision** for retail and quality control
 
 ---
 
-## 🧠 Tech & Tools
+##  Tech & Tools
 
 **Languages & Data**
 
@@ -44,9 +44,9 @@
 
 ---
 
-## 📂 Selected Projects
+##  Selected Projects
 
-### 🛒 Grocery Items Object Detection (YOLOv5)
+###  Grocery Items Object Detection (YOLOv5)
 Multi-class object detection model trained on grocery shelf images.
 
 - Detects multiple product types per image (e.g., cans, bottles, boxes)
@@ -57,7 +57,7 @@ Multi-class object detection model trained on grocery shelf images.
 
 ---
 
-### 👕 Fabric Classification for Clothing
+###  Fabric Classification for Clothing
 End-to-end image classification system to identify **fabric type, color group, and garment type**.
 
 - Used **EfficientNet** and **ConvNeXt** backbones
@@ -68,7 +68,7 @@ End-to-end image classification system to identify **fabric type, color group, a
 
 ---
 
-### 🗣️ Social Sentiment Intelligence (Text Project)
+###  Social Sentiment Intelligence (Text Project)
 Full-stack style project that analyzes text comments from different platforms (e.g., YouTube, Amazon) to help product owners understand what people are saying about their products.
 
 - Cleans and preprocesses raw text
@@ -79,7 +79,7 @@ Full-stack style project that analyzes text comments from different platforms (e
 
 ---
 
-## 📊 Background in Finance
+##  Background in Finance
 
 Before AI, I spent almost **two decades in accounting and corporate finance**, working on:
 
@@ -91,10 +91,9 @@ Now I’m combining that experience with machine learning to build **data-driven
 
 ---
 
-## 📫 How to Reach Me
+##  How to Reach Me
 
-- 💼 LinkedIn: *[add your link here]*  
-- 🧠 Kaggle: *[add your Kaggle profile link here]*  
-- 📧 Email: *[add your preferred email here]*  
+-  LinkedIn: www.linkedin.com/in/anwar-ali-07484083   
+-  Email: bengawianwar@hotmail.com 
 
 If you’d like to talk about AI in **finance, retail, or operations**, or you want to discuss projects, feel free to reach out.
