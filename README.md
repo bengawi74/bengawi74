@@ -1,13 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 About Me
 
-Hi, I started my career in finance and operations, working for many years in budgeting, forecasting, and financial reporting. Recently, I shifted my focus toward applied data and AI to combine my business background with modern analytical tools. I am building skills in data analytics, model development, and full-stack data applications, with hands-on work in machine learning, deep learning, and practical problem-solving. My goal is to move into a role that connects business understanding with data-driven insights. I am also preparing for the MMAI program at the Schulich School of Business.
-=======
-# Anwar Ali
 =======
 <h1 align="center">Hi, I'm Anwar 👋</h1>
->>>>>>> 78f6d73 (Polished GitHub profile README)
 
 <p align="center">
   Applied AI Solutions Development • George Brown College • Toronto, Canada  
@@ -105,8 +99,4 @@ Now I’m combining that experience with machine learning to build **data-driven
 - 🧠 Kaggle: *[add your Kaggle profile link here]*  
 - 📧 Email: *[add your preferred email here]*  
 
-<<<<<<< HEAD
->>>>>>> f4c9b30 (Refresh profile README with projects and background)
-=======
 If you’d like to talk about AI in **finance, retail, or operations**, or you want to discuss projects, feel free to reach out.
->>>>>>> 78f6d73 (Polished GitHub profile README)
